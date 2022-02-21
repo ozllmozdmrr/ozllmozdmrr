@@ -21,5 +21,4 @@
 
 
 
-![snake svg](https://github.com/uHphx/uHphx/blob/output/github-contribution-grid-snake.svg)
 
