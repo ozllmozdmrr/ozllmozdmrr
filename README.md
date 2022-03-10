@@ -17,7 +17,7 @@
 <br>
 
 ### Connect with me:
-<a href="mailto:ozllmozdmrr00@gmail.com" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><a/> <br>
+<a href="mailto:ozllmozdmrr00@gmail.com" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><br>
 
 
 
