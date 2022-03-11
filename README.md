@@ -3,8 +3,6 @@
 ##
 - 🌱 I’m currently learning ...!
 - 🥅 2022 Goals: I aim to be a web developer. My efforts will be rewarded 💻
-- 👯 I’m looking to collaborate on .
-- 🤔 I'm looking for help in self-development.
 - ⚡ Fun fact: I love reading book, playing games, learning..
 <br>
 
