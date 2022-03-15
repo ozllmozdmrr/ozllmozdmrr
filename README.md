@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
 <br>
 
-### Connect with me:
+                                                                                                                                                  ### Connect with me:
 <a href="mailto:ozllmozdmrr00@gmail.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
 <a href="https://www.linkedin.com/in/özlem-özdemir/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo "/>
 <a href="https://app.patika.dev/nymeria"><img src="https://miro.medium.com/max/3150/2*TZeK0kyHTRHVv3gUi8BtQg.png" width="90px" align="right">
