@@ -15,7 +15,7 @@
 <br>
 
 ### Connect with me:
-<a href="mailto:ozllmozdmrr00@gmail.com" ><img width="40px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><br>
+<a href="mailto:ozllmozdmrr00@gmail.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><br>
 <a href="https://www.linkedin.com/in/özlem-özdemir/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo " /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozllmozdmrr&show_icons=true&theme=radical&locale=en&layout=compact" alt="ozllmozdmrr" /></p>
