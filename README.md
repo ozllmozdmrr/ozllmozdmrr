@@ -17,6 +17,6 @@
 ### Connect with me:
 <a href="mailto:ozllmozdmrr00@gmail.com" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><br>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ozllmozdmrrg&theme=blue-green)](https://github.com/ozllmozdmrr/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=ozllmozdmrr&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
