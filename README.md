@@ -20,4 +20,4 @@
 <a href="https://www.linkedin.com/in/özlem-özdemir/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo "/>
 
 <h1></h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozllmozdmrr&show_icons=true&theme=radical&locale=en&layout=compact" alt="ozllmozdmrr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozllmozdmrr&show_icons=true&theme=radical&locale=en&layout=compact" alt="ozllmozdmrr"/></p>
