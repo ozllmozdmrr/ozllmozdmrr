@@ -12,12 +12,14 @@
 <img align="left" style="margin-left:0.5em"  alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" style="margin-left:0.5em" width="45px" src="https://img.icons8.com/color/48/4a90e2/git.png"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <br>
 
 ### Connect with me:
 <a href="mailto:ozllmozdmrr00@gmail.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
 <a href="https://app.patika.dev/nymeria"><img src="https://miro.medium.com/max/3150/2*TZeK0kyHTRHVv3gUi8BtQg.png" width="80px" align="left">
 <a href="https://www.linkedin.com/in/özlem-özdemir/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40px" alt="official linkedin logo "/>
+  
 
 <h1></h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozllmozdmrr&show_icons=true&theme=radical&locale=en&layout=compact" alt="ozllmozdmrr"/></p>
