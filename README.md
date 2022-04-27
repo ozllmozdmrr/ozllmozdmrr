@@ -10,13 +10,21 @@
 ### Languages and Tools:
 
 <img align="left" style="margin-left:1.0em"  alt="Visual Studio Code" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" style="margin-left:0.5em" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" style="margin-left:0.5em"  alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" style="margin-left:0.5em" width="45px" src="https://img.icons8.com/color/48/4a90e2/git.png"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
- <a href="https://jquery.com" target="_blank"><img align="left" style="margin-left:0.5em" src="https://user-images.githubusercontent.com/97258275/165496009-964e2a05-404e-49ff-87cc-bb3d28ec1e9b.png" alt="jqouery" width="50" height="50"/>
 
+<img align="left" style="margin-left:0.5em" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" style="margin-left:0.5em"  alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" style="margin-left:0.5em" width="45px" src="https://img.icons8.com/color/48/4a90e2/git.png"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
+
+<a href="https://getbootstrap.com" target="_blank"> <img align="left" style="margin-left:1.0em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+ 
+<a href="https://jquery.com" target="_blank"><img align="left" style="margin-left:1.0em"  src="https://user-images.githubusercontent.com/97258275/165496009-964e2a05-404e-49ff-87cc-bb3d28ec1e9b.png" alt="jqouery" width="50" height="50"/>
+ 
+<a href="https://figma.com" target="_blank"><img align="left" style="margin-left:1.0em" src="https://user-images.githubusercontent.com/97258275/165496957-caa599e4-19a4-48b8-98db-750cda1ea722.png" alt="figma" width="50" height="35"/>
+<br>
 <br>
 
 ### Connect with me:
