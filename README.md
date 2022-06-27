@@ -18,6 +18,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img align="left" style="margin-left:1.0em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <a href="https://jquery.com" target="_blank"><img align="left" style="margin-left:1.0em"  src="https://user-images.githubusercontent.com/97258275/165496009-964e2a05-404e-49ff-87cc-bb3d28ec1e9b.png" alt="jqouery" width="50" height="50"/>
 <a href="https://figma.com" target="_blank"><img align="left" style="margin-left:1.0em" src="https://user-images.githubusercontent.com/97258275/165496957-caa599e4-19a4-48b8-98db-750cda1ea722.png" alt="figma" width="50" height="35"/>
+<img align="left" style="margin-left:1.0em"  alt="vue.js" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" />
 <br>
 <br>
 
