@@ -24,7 +24,7 @@
 ### Connect with me:
 <a href="mailto:ozllmozdmrr00@gmail.com" ><img width="50px" align="left" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/>
 <a href="https://app.patika.dev/nymeria"><img src="https://miro.medium.com/max/3150/2*TZeK0kyHTRHVv3gUi8BtQg.png" width="80px" align="left">
-
+ <a href="mailto:ozllmozdmrr00@gmail.com" ><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px" align="left"/>
 
 
 <h1></h1>
