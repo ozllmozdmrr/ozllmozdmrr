@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
 <img align="left" style="margin-left:1.0em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 <img align="left" style="margin-left:1.0em"  src="https://user-images.githubusercontent.com/97258275/165496009-964e2a05-404e-49ff-87cc-bb3d28ec1e9b.png" alt="jqouery" width="50" height="50"/>
-<img align="left" style="margin-left:1.0em"  alt="vue.js" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" />
+
 <br>
 <br>
 
