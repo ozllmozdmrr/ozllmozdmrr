@@ -3,7 +3,7 @@
 
 
 ##
-- 🌱 I’m currently learning ...!
+
 - 🥅 2022 Goals: I aim to be a web developer. My efforts will be rewarded 💻
 - ⚡ Fun fact: I love reading book, playing games, learning..
 <br>
