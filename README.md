@@ -16,7 +16,7 @@
 <img align="left" style="margin-left:0.5em" width="45px" src="https://img.icons8.com/color/48/4a90e2/git.png"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
 <img align="left" style="margin-left:1.0em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img align="left" style="margin-left:1.0em"  src="https://user-images.githubusercontent.com/97258275/165496009-964e2a05-404e-49ff-87cc-bb3d28ec1e9b.png" alt="jqouery" width="50" height="50"/>
+
 <img align="left" style="margin-left:1.0em"  src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo-700x524.png" alt="sass"  height="30"/>
 
 <br>
