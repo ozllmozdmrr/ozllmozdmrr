@@ -17,10 +17,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" />
 <img align="left" style="margin-left:1.0em"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="react" width="40" height="35"/>
 <img align="left" style="margin-left:1.0em"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-
-
-
-
 <img align="left" style="margin-left:1.0em"  src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo-700x524.png" alt="sass"  height="30"/>
 
 <br>
