@@ -1,12 +1,12 @@
 <h2 align="center">Hello there! 🚀 I'm Özlem</h2>
-<img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"  />
+<img align="right" src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="280" height="230"  />
 
 
 - 👾  I’m currently working with **React.js and anything related with JavaScript.**
 
 - 💥  My personal page coming soon
 
-- 💬  Ask me about **JavaScript, CSS and React.js.**
+- 💬  Feel free to ask questions :)
 
 - 📫  How to reach me **ozllmozdmrr00@gmail.com**
 
@@ -18,7 +18,7 @@
 
 </p>
 
-<img align="right" src="https://c.tenor.com/4gPD1ccxrVgAAAAC/rick-ashley-dance.gif" width="280" height="230"  />
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" height="230"  />
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
