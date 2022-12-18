@@ -4,6 +4,8 @@
 
 - 👾  I’m currently working with **React.js and anything related with JavaScript.**
 
+- ➕ In addition, I develop myself in the field of cyber security.
+
 - 💥  My personal page coming soon
 
 - 💬  Feel free to ask questions :)
