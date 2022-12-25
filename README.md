@@ -43,5 +43,5 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Adobe_Illustrator_Icon_CS6.png" alt="photoshop" width="30" height="30"/> </a> 
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ozllmozdmrr00.png" alt="TryHackMe">
+
 
