@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="280" height="230"  />
 
 
-- 👾  I’m currently working with **React.js and anything related with JavaScript.**
+
 
 - ➕ In addition, I develop myself in the field of cyber security.
 
