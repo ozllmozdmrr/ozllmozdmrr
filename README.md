@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ozllmozdmrr/" target="blank" rel=”noopener”><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png" alt="ozlemozdemir" height="30" width="30" /></a>
-<a href="https://www.instagram.com/ozllmozdmrrr/?hl=tr" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="ozlemozdemir" height="30" width="30" /></a>
+<a href="" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="ozlemozdemir" height="30" width="30" /></a>
 <a href="https://ozllmozdmrr.medium.com/" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ozlemozdemir" height="30" width="40" /></a>
 
 </p>
