@@ -10,7 +10,7 @@
 
 - 💬  Feel free to ask questions :)
 
-- 📫  How to reach me **ozllmozdmrr00@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
